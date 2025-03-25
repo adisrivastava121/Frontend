@@ -1,0 +1,56 @@
+.navbar {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Varela', sans-serif;
+}
+
+body {
+  font-family: 'Varela', sans-serif;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.card {
+  max-width: 345px;
+  margin: auto;
+}
+
+.card-media {
+  height: 140px;
+}
+
+.card-content {
+  text-align: center;
+}
+
+.reason-section {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.reason-header {
+  font-size: 24px;
+  font-family: 'Varela', sans-serif;
+  margin-bottom: 10px;
+}
+
+.reason-text {
+  font-size: 18px;
+  font-family: 'Varela', sans-serif;
+  border: 1px solid #ccc;
+  padding: 10px;
+  display: inline-block;
+  max-width: 600px;
+  margin: auto;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
